@@ -1,0 +1,9 @@
+AIRAC 1213
+
+Position EPLB_TWR added.
+AWY P866 removed.
+AWY L621, N191, N195 changed.
+Several waypoints description added/updated.
+EPWA_APP S and N position names corrected.
+EPWA STARS November and Victor - COPX lists corrected.
+
