@@ -7,3 +7,7 @@ Several waypoints description added/updated.
 EPWA_APP S and N position names corrected.
 EPWA STARS November and Victor - COPX lists corrected.
 
+AIRAC 1301
+
+Aerodrome EPLB Lublin added.
+
