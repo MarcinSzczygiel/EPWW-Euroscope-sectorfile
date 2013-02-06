@@ -12,6 +12,7 @@ AG:Okecie Ground:121.900:voice.vroute.net:epwa_gnd
 AG:Okecie Delivery:121.600:voice.vroute.net:epwa_del
 AG:Okecie ATIS:120.450:voice.vroute.net:epwa_atis
 AG:Krakow Approach:121.070:voice.vroute.net:epkk_app
+AG:Katowice ATIS:120.220:voice.vroute.net:epkt_atis
 AG:Katowice Tower:129.250:voice.vroute.net:epkt_twr
 AG:Krakow ATIS:126.120:voice.vroute.net:epkk_atis
 AG:Krakow Ground:118.100:voice.vroute.net:epkk_gnd
@@ -22,8 +23,11 @@ AG:Gdansk Tower:118.100:voice.vroute.net:epgd_twr
 AG:Gdansk Approach:130.870:voice.vroute.net:epgd_app
 AG:Poznan Approach (N):135.520:voice.vroute.net:eppo_n_app
 AG:Poznan Approach (S):127.220:voice.vroute.net:eppo_s_app
+AG:Poznan ATIS:124.700:voice.vroute.net:eppo_atis
 AG:Poznan Tower:119.970:voice.vroute.net:eppo_twr
+AG:Rzeszow ATIS:124.950:voice.vroute.net:eprz_atis
 AG:Rzeszow Tower:126.800:voice.vroute.net:eprz_twr
+AG:Szczecin ATIS:132.120:voice.vroute.net:epsc_atis
 AG:Szczecin Tower:121.250:voice.vroute.net:epsc_twr
 AG:Bygdoszcz Tower:131.000:voice.vroute.net:epby_twr
 AG:Lodz Tower:124.220:voice.vroute.net:epll_twr
@@ -31,5 +35,6 @@ AG:Babice Information:119.170:voice.vroute.net:epbc_twr
 AG:Modlin Tower:123.920:voice.vroute.net:epmo_twr
 AG:Lublin Tower:136.420:voice.vroute.net:eplb_twr
 AG:Zielona Gora Tower:118.750:voice.vroute.net:epby_twr
+AG:Wroclaw ATIS:124.320:voice.vroute.net:epwr_atis
 AG:Wroclaw Tower:120.250:voice.vroute.net:epwr_twr
 END

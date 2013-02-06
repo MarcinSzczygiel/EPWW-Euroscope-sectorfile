@@ -11,3 +11,8 @@ AIRAC 1301
 
 Aerodrome EPLB Lublin added.
 
+AIRAC 1302
+
+ATIS position added: EPKT, EPPO, EPRZ, EPSC, EPWR.
+[RADAR] section with radar coverage map added to .ese. (thanks to Michael Zazula)
+EPPO stand and twy markings corrected
