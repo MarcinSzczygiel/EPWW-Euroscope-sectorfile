@@ -7,5 +7,5 @@ DOWNLOADINTERVAL:1
 
 SECTOR_NAME:EPWW - Poland Official (full coverage)
 SECTOR_FILE_NAME:EPWW
-SECTOR_VERSION:133_20130206
-SECTOR_URL:http://pl-vacc.org/files/soft_atc/ES_sectorfiles/EPWW_133_20130206.7z
+SECTOR_VERSION:134_20130306
+SECTOR_URL:http://pl-vacc.org/files/soft_atc/ES_sectorfiles/EPWW_134_20130306.7z

@@ -16,3 +16,9 @@ AIRAC 1302
 ATIS position added: EPKT, EPPO, EPRZ, EPSC, EPWR.
 [RADAR] section with radar coverage map added to .ese. (thanks to Michael Zazula)
 EPPO stand and twy markings corrected
+
+AIRAC 1303
+
+EPBC ATZ and EPBC Information position added (EPBC_TWR).
+(thanks to Krzysztof Rzeminski)
+Several sectorline activation rules updated
