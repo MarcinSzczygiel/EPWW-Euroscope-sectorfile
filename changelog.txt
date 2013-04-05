@@ -49,3 +49,6 @@ EPWA STARs changed
 EPZG STARs changed
 
 VFR points updated
+
+5.04.2013
+Display sectorline rules corrected.
