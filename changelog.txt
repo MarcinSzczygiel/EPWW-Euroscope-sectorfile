@@ -52,3 +52,8 @@ VFR points updated
 
 5.04.2013
 Display sectorline rules corrected.
+
+AIRAC 1305
+TMA EPSC changed
+TMA EPWA changed
+Airways updated
