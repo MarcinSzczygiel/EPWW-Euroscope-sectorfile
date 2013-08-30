@@ -61,3 +61,6 @@ Airways updated
 AIRAC 1307
 CTA07 lower limit changed to 3500ft
 TMA EPSC sector D corrected
+
+AIRAC 1308
+EPGD SIDs changed

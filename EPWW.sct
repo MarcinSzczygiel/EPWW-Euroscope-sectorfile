@@ -1,8 +1,12 @@
 ; Warszawa ACC ES by Marcin Dziadowiec
 ; All rights reserved
+;Wykorzystanie plików zawieraj¹cych dane dla sektorów dla EPWW FIR publikowanych na tej stronie
+; dla platform innych ni¿ VATSIM wymaga zgody Zarz¹du PL-VACC.
+;Sector data files for EPWW FIR published here may not be used on network platforms
+; other than VATSIM unless permission has been obtained from the Board of PL-VACC.
 
 [INFO]
-FIR Warszawa 1305 [06.05.2013]
+FIR Warszawa 1309 [22.08.2013]
 EPWW_CTR
 EPWA
 N052.14.21.827
@@ -6293,6 +6297,8 @@ BY811 N053.05.02.700 E017.39.45.200 ;GNSS 08
 
 ;GDANSK
 AGBER N051.15.42.900 E018.55.46.600 ;GNSS 29
+
+GD301 N054.18.45.000 E018.12.35.000 ;SID 29
 
 GD401 N054.17.41.100 E018.47.56.600 ;GNSS 29
 GD402 N054.18.40.100 E018.44.00.700 ;GNSS 29
