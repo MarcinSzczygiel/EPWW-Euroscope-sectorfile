@@ -64,3 +64,10 @@ TMA EPSC sector D corrected
 
 AIRAC 1308
 EPGD SIDs changed
+
+AIRAC 1310
+Waypoints, airways changed
+EPWA SIDs and STARs changed
+VOR KRT withdrawn
+EPMO ILS 08 added
+EPGD, EPKT and EPGD surfaces updated to reflect sceneries changes
