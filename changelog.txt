@@ -71,3 +71,9 @@ EPWA SIDs and STARs changed
 VOR KRT withdrawn
 EPMO ILS 08 added
 EPGD, EPKT and EPGD surfaces updated to reflect sceneries changes
+
+AIRAC 1311
+VOR BYZ added
+EPBY SIDs and STARs added
+several waypoints added
+correction of EPGD surface
