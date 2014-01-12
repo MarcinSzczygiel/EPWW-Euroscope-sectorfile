@@ -77,3 +77,12 @@ VOR BYZ added
 EPBY SIDs and STARs added
 several waypoints added
 correction of EPGD surface
+
+27.10.2013
+Added Director sectors and freqs for EPKK, EPKT
+
+14.11.2013
+Waypoints changed
+EPKK/KT Approach position corrected
+EPMO STARs corrected
+EPKT director sector added
