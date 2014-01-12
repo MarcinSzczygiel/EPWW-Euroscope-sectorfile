@@ -86,3 +86,7 @@ Waypoints changed
 EPKK/KT Approach position corrected
 EPMO STARs corrected
 EPKT director sector added
+
+28.11.2013
+Correction of EPWA RWY33 STARs designators
+EPKK_DEL position frequency added

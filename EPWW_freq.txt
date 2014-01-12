@@ -12,10 +12,12 @@ AG:Okecie Ground:121.900:voice.vroute.net:epwa_gnd
 AG:Okecie Delivery:121.600:voice.vroute.net:epwa_del
 AG:Okecie ATIS:120.450:voice.vroute.net:epwa_atis
 AG:Krakow Approach:121.070:voice.vroute.net:epkk_app
+AG:Krakow Approach:134.670:voice.vroute.net:epkk_k_app
 AG:Katowice ATIS:120.220:voice.vroute.net:epkt_atis
 AG:Katowice Tower:129.250:voice.vroute.net:epkt_twr
 AG:Krakow ATIS:126.120:voice.vroute.net:epkk_atis
 AG:Krakow Ground:118.100:voice.vroute.net:epkk_gnd
+AG:Krakow Delivery:121.970:voice.vroute.net:epkk_del
 AG:Krakow Tower:123.250:voice.vroute.net:epkk_twr
 AG:Krakow Director:123.800:voice.vroute.net:epkk_f_app
 AG:Katowice Director:134.670:voice.vroute.net:epkk_k_app
@@ -55,6 +57,7 @@ AG:Katowice ATIS:120.220:voice.euroutepro.com:epkt_atis
 AG:Katowice Tower:129.250:voice.euroutepro.com:epkt_twr
 AG:Krakow ATIS:126.120:voice.euroutepro.com:epkk_atis
 AG:Krakow Ground:118.100:voice.euroutepro.com:epkk_gnd
+AG:Krakow Delivery:121.970:voice.euroutepro.com:epkk_del
 AG:Krakow Tower:123.250:voice.euroutepro.com:epkk_twr
 AG:Krakow Director:123.800:voice.euroutepro.com:epkk_f_app
 AG:Katowice Director:134.670:voice.euroutepro.com:epkk_k_app
