@@ -5,7 +5,7 @@ URL:http://pl-vacc.org/files/soft_atc/ES_sectorfiles/PLVACC_sectors.txt
 DOWNLOADINTERVAL:1
 
 
-SECTOR_NAME:EPWW - Poland Official (full coverage) AIRAC 1312
+SECTOR_NAME:EPWW - Poland Official (full coverage) AIRAC 1402
 SECTOR_FILE_NAME:EPWW
-SECTOR_VERSION:143_20131114
-SECTOR_URL:http://pl-vacc.org/files/soft_atc/ES_sectorfiles/EPWW_143_20131114.7z
+SECTOR_VERSION:146_20140206
+SECTOR_URL:http://pl-vacc.org/files/soft_atc/ES_sectorfiles/EPWW_146_20140206.7z

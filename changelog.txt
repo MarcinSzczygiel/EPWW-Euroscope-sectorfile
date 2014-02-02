@@ -93,3 +93,11 @@ EPKK_DEL position frequency added
 
 19.01.2014
 Changes in LKAA FIR according to real-life
+
+02.02.2014
+CTR EPGD borders changed
+SID EPMO changed
+STAR EPMO changed
+GNSS EPSC fixes added
+STAR EPWA 11 changed
+several fixes added and withdrawn
