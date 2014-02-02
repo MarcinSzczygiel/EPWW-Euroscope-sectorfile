@@ -90,3 +90,6 @@ EPKT director sector added
 28.11.2013
 Correction of EPWA RWY33 STARs designators
 EPKK_DEL position frequency added
+
+19.01.2014
+Changes in LKAA FIR according to real-life
