@@ -101,3 +101,6 @@ STAR EPMO changed
 GNSS EPSC fixes added
 STAR EPWA 11 changed
 several fixes added and withdrawn
+
+5.02.2014
+EPLB procedures added to .sct
