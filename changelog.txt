@@ -104,3 +104,15 @@ several fixes added and withdrawn
 
 5.02.2014
 EPLB procedures added to .sct
+
+16.02.2014
+Twy and stands EPMO added (by. P. Grudniewski)
+Several attitions and updates in airports (by M. Rohowski):
+- EPWA twy W
+- EPBY twys and stands
+- EPLB twy A
+- EPSC twys and stands
+- EPKK twys update
+- EPLL twys and stands
+- EPLL VFR point T
+- EPZG VFR points
