@@ -116,3 +116,7 @@ Several attitions and updates in airports (by M. Rohowski):
 - EPLL twys and stands
 - EPLL VFR point T
 - EPZG VFR points
+
+26.02.2014
+COPX updated
+minor bugs fixed
