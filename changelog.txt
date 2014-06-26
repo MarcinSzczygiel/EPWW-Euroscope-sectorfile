@@ -120,3 +120,8 @@ Several attitions and updates in airports (by M. Rohowski):
 26.02.2014
 COPX updated
 minor bugs fixed
+
+4.03.2014
+AIRAC 1403
+RNAV waypoints added (found by D. Kurek)
+VOR approach lines added: EPKT rwy 09, EPKK rwy 07 (by. P. Grudniewski)
