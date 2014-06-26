@@ -107,7 +107,7 @@ EPLB procedures added to .sct
 
 16.02.2014
 Twy and stands EPMO added (by. P. Grudniewski)
-Several attitions and updates in airports (by M. Rohowski):
+Several additions and updates in airports (by M. Rohowski):
 - EPWA twy W
 - EPBY twys and stands
 - EPLB twy A
@@ -125,3 +125,11 @@ minor bugs fixed
 AIRAC 1403
 RNAV waypoints added (found by D. Kurek)
 VOR approach lines added: EPKT rwy 09, EPKK rwy 07 (by. P. Grudniewski)
+
+26.06.2014
+EPLL VFR points changed
+wpt KOTEK added
+EPKK STAR changed
+EPKT STAR changed
+EPRZ SID changed
+minor bugs fixed, incl. EPMO CTR border
