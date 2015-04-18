@@ -24,7 +24,7 @@ AG:Katowice Director:134.670:voice.vroute.net:epkk_k_app
 AG:Gdansk ATIS:129.620:voice.vroute.net:epgd_atis
 AG:Gdansk Tower:118.100:voice.vroute.net:epgd_twr
 AG:Gdansk Approach:127.270:voice.vroute.net:epgd_app
-AG:Poznan Approach (N):129.070:voice.vroute.net:eppo_n_app
+AG:Poznan Approach (N):129.020:voice.vroute.net:eppo_n_app
 AG:Poznan Approach (S):127.220:voice.vroute.net:eppo_s_app
 AG:Poznan ATIS:124.700:voice.vroute.net:eppo_atis
 AG:Poznan Tower:119.970:voice.vroute.net:eppo_twr
@@ -63,8 +63,8 @@ AG:Krakow Director:123.800:voice.euroutepro.com:epkk_f_app
 AG:Katowice Director:134.670:voice.euroutepro.com:epkk_k_app
 AG:Gdansk ATIS:129.620:voice.euroutepro.com:epgd_atis
 AG:Gdansk Tower:118.100:voice.euroutepro.com:epgd_twr
-AG:Gdansk Approach:130.870:voice.euroutepro.com:epgd_app
-AG:Poznan Approach (N):135.520:voice.euroutepro.com:eppo_n_app
+AG:Gdansk Approach:127.270:voice.euroutepro.com:epgd_app
+AG:Poznan Approach (N):129.020:voice.euroutepro.com:eppo_n_app
 AG:Poznan Approach (S):127.220:voice.euroutepro.com:eppo_s_app
 AG:Poznan ATIS:124.700:voice.euroutepro.com:eppo_atis
 AG:Poznan Tower:119.970:voice.euroutepro.com:eppo_twr
