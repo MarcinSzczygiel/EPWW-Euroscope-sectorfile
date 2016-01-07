@@ -80,4 +80,8 @@ AG:Lublin Tower:136.420:voice.euroutepro.com:eplb_twr
 AG:Zielona Gora Tower:118.750:voice.euroutepro.com:epzg_twr
 AG:Wroclaw ATIS:124.320:voice.euroutepro.com:epwr_atis
 AG:Wroclaw Tower:120.250:voice.euroutepro.com:epwr_twr
+AG:RW_Poznañ Zbli¿anie:129.020:rw.liveatc.net:eppo_app
+AG:Poznan ATIS:124.700:rw.liveatc.net:eppo_atis
+AG:RW_WWCTR:134.920:rw.liveatc.net:epww_s_ctr
+AG:epwa_atis:199.998:rw.liveatc.net:epwa_atis
 END
