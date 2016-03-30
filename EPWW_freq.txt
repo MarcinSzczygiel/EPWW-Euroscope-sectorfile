@@ -40,6 +40,7 @@ AG:Lublin Tower:136.420:voice.vroute.net:eplb_twr
 AG:Zielona Gora Tower:118.750:voice.vroute.net:epzg_twr
 AG:Wroclaw ATIS:124.320:voice.vroute.net:epwr_atis
 AG:Wroclaw Tower:120.250:voice.vroute.net:epwr_twr
+AG:Mazury Tower:118.020:voice.vroute.com:epsy_twr
 AG:Warszawa Radar North:132.700:voice.euroutepro.com:epww_n_ctr
 AG:Warszawa Radar West:134.870:voice.euroutepro.com:epww_w_ctr
 AG:Warszawa Radar East:134.170:voice.euroutepro.com:epww_e_ctr
@@ -80,6 +81,7 @@ AG:Lublin Tower:136.420:voice.euroutepro.com:eplb_twr
 AG:Zielona Gora Tower:118.750:voice.euroutepro.com:epzg_twr
 AG:Wroclaw ATIS:124.320:voice.euroutepro.com:epwr_atis
 AG:Wroclaw Tower:120.250:voice.euroutepro.com:epwr_twr
+AG:Mazury Tower:118.020:voice.euroutepro.com:epsy_twr
 AG:Warszawa Radar North:132.700:rw.liveatc.net:epww_n_ctr
 AG:Warszawa Radar West:134.870:rw.liveatc.net:epww_w_ctr
 AG:Warszawa Radar East:134.170:rw.liveatc.net:epww_e_ctr
@@ -120,4 +122,5 @@ AG:Lublin Tower:136.420:rw.liveatc.net:eplb_twr
 AG:Zielona Gora Tower:118.750:rw.liveatc.net:epzg_twr
 AG:Wroclaw ATIS:124.320:rw.liveatc.net:epwr_atis
 AG:Wroclaw Tower:120.250:rw.liveatc.net:epwr_twr
+AG:Mazury Tower:118.020:rw.liveatc.net:epsy_twr
 END
