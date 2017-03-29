@@ -28,6 +28,7 @@ AG:Poznan Approach (N):129.020:voice.vroute.net:eppo_n_app
 AG:Poznan Approach (S):127.220:voice.vroute.net:eppo_s_app
 AG:Poznan ATIS:124.700:voice.vroute.net:eppo_atis
 AG:Poznan Tower:119.970:voice.vroute.net:eppo_twr
+AG:Radom Tower:122.050:voice.vroute.net:epra_twr
 AG:Rzeszow ATIS:124.950:voice.vroute.net:eprz_atis
 AG:Rzeszow Tower:126.800:voice.vroute.net:eprz_twr
 AG:Szczecin ATIS:132.120:voice.vroute.net:epsc_atis
@@ -35,8 +36,8 @@ AG:Szczecin Tower:121.250:voice.vroute.net:epsc_twr
 AG:Bygdoszcz Tower:131.000:voice.vroute.net:epby_twr
 AG:Lodz Tower:124.220:voice.vroute.net:epll_twr
 AG:Babice Information:119.170:voice.vroute.net:epbc_twr
-AG:Modlin Tower:123.920:voice.vroute.net:epmo_twr
-AG:Lublin Tower:136.420:voice.vroute.net:eplb_twr
+AG:Modlin Tower:128.020:voice.vroute.net:epmo_twr
+AG:Lublin Tower:128.250:voice.vroute.net:eplb_twr
 AG:Zielona Gora Tower:118.750:voice.vroute.net:epzg_twr
 AG:Wroclaw ATIS:124.320:voice.vroute.net:epwr_atis
 AG:Wroclaw Tower:120.250:voice.vroute.net:epwr_twr
@@ -69,6 +70,7 @@ AG:Poznan Approach (N):129.020:voice.euroutepro.com:eppo_n_app
 AG:Poznan Approach (S):127.220:voice.euroutepro.com:eppo_s_app
 AG:Poznan ATIS:124.700:voice.euroutepro.com:eppo_atis
 AG:Poznan Tower:119.970:voice.euroutepro.com:eppo_twr
+AG:Radom Tower:122.050:voice.euroutepro.com:epra_twr
 AG:Rzeszow ATIS:124.950:voice.euroutepro.com:eprz_atis
 AG:Rzeszow Tower:126.800:voice.euroutepro.com:eprz_twr
 AG:Szczecin ATIS:132.120:voice.euroutepro.com:epsc_atis
@@ -76,8 +78,8 @@ AG:Szczecin Tower:121.250:voice.euroutepro.com:epsc_twr
 AG:Bygdoszcz Tower:131.000:voice.euroutepro.com:epby_twr
 AG:Lodz Tower:124.220:voice.euroutepro.com:epll_twr
 AG:Babice Information:119.170:voice.euroutepro.com:epbc_twr
-AG:Modlin Tower:123.920:voice.euroutepro.com:epmo_twr
-AG:Lublin Tower:136.420:voice.euroutepro.com:eplb_twr
+AG:Modlin Tower:128.020:voice.euroutepro.com:epmo_twr
+AG:Lublin Tower:128.250:voice.euroutepro.com:eplb_twr
 AG:Zielona Gora Tower:118.750:voice.euroutepro.com:epzg_twr
 AG:Wroclaw ATIS:124.320:voice.euroutepro.com:epwr_atis
 AG:Wroclaw Tower:120.250:voice.euroutepro.com:epwr_twr
@@ -110,6 +112,7 @@ AG:Poznan Approach (N):129.020:rw.liveatc.net:eppo_n_app
 AG:Poznan Approach (S):127.220:rw.liveatc.net:eppo_s_app
 AG:Poznan ATIS:124.700:rw.liveatc.net:eppo_atis
 AG:Poznan Tower:119.970:rw.liveatc.net:eppo_twr
+AG:Radom Tower:122.050:rw.liveatc.net:epra_twr
 AG:Rzeszow ATIS:124.950:rw.liveatc.net:eprz_atis
 AG:Rzeszow Tower:126.800:rw.liveatc.net:eprz_twr
 AG:Szczecin ATIS:132.120:rw.liveatc.net:epsc_atis
@@ -117,8 +120,8 @@ AG:Szczecin Tower:121.250:rw.liveatc.net:epsc_twr
 AG:Bygdoszcz Tower:131.000:rw.liveatc.net:epby_twr
 AG:Lodz Tower:124.220:rw.liveatc.net:epll_twr
 AG:Babice Information:119.170:rw.liveatc.net:epbc_twr
-AG:Modlin Tower:123.920:rw.liveatc.net:epmo_twr
-AG:Lublin Tower:136.420:rw.liveatc.net:eplb_twr
+AG:Modlin Tower:128.020:rw.liveatc.net:epmo_twr
+AG:Lublin Tower:128.250:rw.liveatc.net:eplb_twr
 AG:Zielona Gora Tower:118.750:rw.liveatc.net:epzg_twr
 AG:Wroclaw ATIS:124.320:rw.liveatc.net:epwr_atis
 AG:Wroclaw Tower:120.250:rw.liveatc.net:epwr_twr
