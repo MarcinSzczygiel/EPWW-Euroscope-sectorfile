@@ -1,8 +1,8 @@
 VOICE
-AG:Warszawa Radar North:132.700:voice.vroute.net:epww_n_ctr
+AG:Warszawa Radar North:130.670:voice.vroute.net:epww_n_ctr
 AG:Warszawa Radar West:134.870:voice.vroute.net:epww_w_ctr
-AG:Warszawa Radar East:134.170:voice.vroute.net:epww_e_ctr
-AG:Warszawa Radar South:134.920:voice.vroute.net:epww_s_ctr
+AG:Warszawa Information:134.170:voice.vroute.net:epww_v_ctr
+AG:Warszawa Radar South:125.450:voice.vroute.net:epww_s_ctr
 AG:Warszawa Information:119.450:voice.vroute.net:epwa_i_app
 AG:Warszawa Approach:128.800:voice.vroute.net:epwa_s_app
 AG:Warszawa Approach:125.050:voice.vroute.net:epwa_n_app
@@ -42,10 +42,10 @@ AG:Zielona Gora Tower:118.750:voice.vroute.net:epzg_twr
 AG:Wroclaw ATIS:124.320:voice.vroute.net:epwr_atis
 AG:Wroclaw Tower:120.250:voice.vroute.net:epwr_twr
 AG:Mazury Tower:118.020:voice.vroute.com:epsy_twr
-AG:Warszawa Radar North:132.700:voice.euroutepro.com:epww_n_ctr
+AG:Warszawa Radar North:130.670:voice.euroutepro.com:epww_n_ctr
 AG:Warszawa Radar West:134.870:voice.euroutepro.com:epww_w_ctr
-AG:Warszawa Radar East:134.170:voice.euroutepro.com:epww_e_ctr
-AG:Warszawa Radar South:134.920:voice.euroutepro.com:epww_s_ctr
+AG:Warszawa Information:134.170:voice.euroutepro.com:epww_v_ctr
+AG:Warszawa Radar South:125.450:voice.euroutepro.com:epww_s_ctr
 AG:Warszawa Information:119.450:voice.euroutepro.com:epwa_i_app
 AG:Warszawa Approach:128.800:voice.euroutepro.com:epwa_s_app
 AG:Warszawa Approach:125.050:voice.euroutepro.com:epwa_n_app
@@ -84,10 +84,10 @@ AG:Zielona Gora Tower:118.750:voice.euroutepro.com:epzg_twr
 AG:Wroclaw ATIS:124.320:voice.euroutepro.com:epwr_atis
 AG:Wroclaw Tower:120.250:voice.euroutepro.com:epwr_twr
 AG:Mazury Tower:118.020:voice.euroutepro.com:epsy_twr
-AG:Warszawa Radar North:132.700:rw.liveatc.net:epww_n_ctr
+AG:Warszawa Radar North:130.670:rw.liveatc.net:epww_n_ctr
 AG:Warszawa Radar West:134.870:rw.liveatc.net:epww_w_ctr
-AG:Warszawa Radar East:134.170:rw.liveatc.net:epww_e_ctr
-AG:Warszawa Radar South:134.920:rw.liveatc.net:epww_s_ctr
+AG:Warszawa Information:134.170:rw.liveatc.net:epww_v_ctr
+AG:Warszawa Radar South:125.450:rw.liveatc.net:epww_s_ctr
 AG:Warszawa Information:119.450:rw.liveatc.net:epwa_i_app
 AG:Warszawa Approach:128.800:rw.liveatc.net:epwa_s_app
 AG:Warszawa Approach:125.050:rw.liveatc.net:epwa_n_app
