@@ -5,7 +5,7 @@ URL:http://pl-vacc.org.pl/files/soft_atc/ES_sectorfiles/PLVACC_sectors.txt
 DOWNLOADINTERVAL:1
 
 
-SECTOR_NAME:EPWW - Poland Official (full coverage) AIRAC 1713
+SECTOR_NAME:EPWW - Poland Official (full coverage) AIRAC 1802
 SECTOR_FILE_NAME:EPWW
-SECTOR_VERSION:196_20171207
-SECTOR_URL:http://pl-vacc.org.pl/files/soft_atc/ES_sectorfiles/EPWW_196_20171207.7z
+SECTOR_VERSION:198_20180201
+SECTOR_URL:http://pl-vacc.org.pl/files/soft_atc/ES_sectorfiles/EPWW_198_20180201.7z
